@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets-eco",
+  "repo": "flask-stache",
+  "versions": [
+    {
+      "commit": "b3bbd326bdbcab04f7eec04dae20e74c1713942b",
+      "parsed_at": "2026-10-11T08:26:32.389107+00:00",
+      "filetree": "filetree/b3bbd326bdbcab04f7eec04dae20e74c1713942b.nq.gz",
+      "blobs": [
+        "blob/b488a9b20bdc3119d9f4467209df1880085c8bfb.nq.gz",
+        "blob/7b4e800d9406a8a2e09f331f6c76ae22db84a953.nq.gz",
+        "blob/6740d247b30fbd8fd7b6bee0ea13cc967cc3d7ea.nq.gz",
+        "blob/bf7b494fc7044e1395c1c821f2babc309277bf78.nq.gz",
+        "blob/e7858462787427846f90bbe8c372355c324fa82a.nq.gz",
+        "blob/2b1a4f0b9c203602ddb36d0d6ba3939d49e86e11.nq.gz",
+        "blob/e35d8850c9688b1ce82711694692cc574a799396.nq.gz",
+        "blob/988e3b1a7b826604cb9f436c6adf41fd20c34038.nq.gz",
+        "blob/036f0b6d792794d14f42e3035baf619d32f201d3.nq.gz",
+        "blob/8a05a51e8698babbed33230457f17c9073042d81.nq.gz",
+        "blob/f5c6f5921d26a7837d0e5a743cf08052c6330a64.nq.gz",
+        "blob/32c79a603ea21eb140777d4fba3165fb036a72a5.nq.gz",
+        "blob/c5f458c8dc4ddbcb42459c4cfe2634dea3ef065c.nq.gz",
+        "blob/3440e34ff8e17e5c7780849509cddb75d958d2fb.nq.gz",
+        "blob/01c8e73ae975008155236b4ca113ee248f764efa.nq.gz",
+        "blob/265c0036ed751e669a9519e181274b2d78e6b2ab.nq.gz",
+        "blob/9f7e3a2cd332888dfbdf792d406d67dcad507e36.nq.gz",
+        "blob/6d3308a8975552de7f821f56dd45b3285e6b50b7.nq.gz",
+        "blob/daf25454e6eea7a7dd0df0cce8299b0e66133dbd.nq.gz",
+        "blob/142ff3aac8d99ed89e341386ec7daaef82308fec.nq.gz",
+        "blob/161634d64d4d9ec8f716593283a7357f6060d1f3.nq.gz",
+        "blob/38447485cdcdd83285d63061ffdc40954808fefd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
